@@ -1,4 +1,4 @@
-# Pocket Relay Client Plugin
+# ME3 Offline Plugin
 
 ![License](https://img.shields.io/github/license/PocketRelay/me3-offline-plugin?style=for-the-badge)
 ![Build](https://img.shields.io/github/actions/workflow/status/PocketRelay/PocketRelayClientPlugin/build.yml?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [What](#❔-what) What Pocket Relay Plugin client is
+- [What](#❔-what) What ME3 Offline Plugin is
 - [Downloads](#📥-downloads) Download links to the client plugin
 - [Manually Building](#🚀-manually-building) Instructions for building manually
   - [Requirements](#requirements)
