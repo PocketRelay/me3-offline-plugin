@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [What](#❔-what) What ME3 Offline Plugin is
-- [Downloads](#📥-downloads) Download links to the client plugin
+- [Downloads](#📥-downloads) Download links to the plugin
 - [Manually Building](#🚀-manually-building) Instructions for building manually
   - [Requirements](#requirements)
   - [1. Cloning sources](#1-cloning-sources)
@@ -30,13 +30,10 @@ This plugin tricks the game into thinking you're still connected to a network al
 
 ## 📥 Downloads
 
-Below are some quick download links to download the latest versions, the client plugin contains a built in auto-updater so you don't have to return to this website every time a new release is available.
+Below is the download link for the plugin:
 
-| Variant | Download Link                                                                                                 |
-| ------- | ------------------------------------------------------------------------------------------------------------- |
-| Plugin  | [Download](https://github.com/PocketRelay/me3-offline-plugin/releases/latest/download/me3-offline-plugin.asi) |
-
-
+[Download](https://github.com/PocketRelay/me3-offline-plugin/releases/latest/download/me3-offline-plugin.asi)
+s
 ## 🚀 Manually Building
 
 If you would like to manually build the dll you can follow the instructions below
@@ -51,8 +48,8 @@ If you would like to manually build the dll you can follow the instructions belo
 Clone github repository (Skip this step if you have manually downloaded the sources)
 
 ```sh
-git clone https://github.com/PocketRelay/PocketRelayClientPlugin.git pocket-relay-client-plugin
-cd pocket-relay-client-plugin
+git clone https://github.com/PocketRelay/me3-offline-plugin.git me3-offline-plugin
+cd me3-offline-plugin
 ```
 
 ### 2. Adding rust target
