@@ -33,7 +33,7 @@ This plugin tricks the game into thinking you're still connected to a network al
 Below is the download link for the plugin:
 
 [Download](https://github.com/PocketRelay/me3-offline-plugin/releases/latest/download/me3-offline-plugin.asi)
-s
+
 ## 🚀 Manually Building
 
 If you would like to manually build the dll you can follow the instructions below
